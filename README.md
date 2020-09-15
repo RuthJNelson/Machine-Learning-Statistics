@@ -3,7 +3,9 @@ The following repository contains example files using linear and logistic regres
 
 The **Linear and Logistic Regression using random variables** contains code for the collowing visualisations:
 
-![Plot_1](https://github.com/RuthJNelson/Statistics/blob/master/Images/A.png)
+The **Linear and Logistic Regression using random variables** contains code for the collowing visualisations:
+
+![Plot_2](https://github.com/RuthJNelson/Statistics/blob/master/Images/A.png)
 
 
 ![Plot_2](https://github.com/RuthJNelson/Statistics/blob/master/Images/B.png)
@@ -12,3 +14,9 @@ The **Linear and Logistic Regression using random variables** contains code for 
 ![Plot_3](https://github.com/RuthJNelson/Statistics/blob/master/Images/C.png)
 
 
+The **Stanford Machine Learning Example 1** contains code for the collowing visualisations:
+
+![Plot_5](https://github.com/RuthJNelson/Statistics/blob/master/Images/Plot%205.png)
+
+
+![Plot_6](https://github.com/RuthJNelson/Statistics/blob/master/Images/Plot%206.png)
