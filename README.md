@@ -1,9 +1,7 @@
 # Statistics
 The following repository contains example files using linear and logistic regression in JupyterLab and Matlab
 
-The **Linear and Logistic Regression using random variables** contains code for the collowing visualisations:
-
-The **Linear and Logistic Regression using random variables** contains code for the collowing visualisations:
+The **Linear and Logistic Regression using random variables** contains code for the following visualisations:
 
 ![Plot_2](https://github.com/RuthJNelson/Statistics/blob/master/Images/A.png)
 
